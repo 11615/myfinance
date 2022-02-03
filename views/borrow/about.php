@@ -69,29 +69,20 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                   <h2 class="mb30">Who We Are?</h2>
                   <p class="lead mb30">
-                    Insight loan advisors is completely independent loan
-                    advising service and our directory of lenders gives you
-                    all the information lorem ipsums sitamets.
+                  MyFinance lets you make payments electronically, significantly reducing your paperwork and giving you a simple overview of your invoices and accounts.
                   </p>
                   <p>
-                    Vestibulum condimentum neque at interdum dignissim.
-                    Integer colutpat vel lorem ac fringilla. Vestibulum
-                    porttitor euismod udiam viverra euismod non hendrerit
-                    eros.
+                  Feel confident, take control of your finances · 
                   </p>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12">
                   <div class="mb60">
                     <h2 class="mb30">What We Offer?</h2>
                     <p class="lead mb30">
-                      Our loan sanction is one of the quicke with eas
-                      documentation and doorstep lorem ipsum serviceullam
-                      dolor sitisi.
+                    Welcome My Finance. Small business is the backbone of our economy .The firm offers unsecured loans of up to 5 lakhs and secured loans of up to 20 lakhs.
                     </p>
                     <p>
-                      Nullam tincidunt ligula purus, eget aliquet urna maximus
-                      id. lorem nisi vel sapien sollicitudin rutrum.Quisque
-                      sed felis metus Intocus pellentesque nisi eu mollis.
+                    MyFinance is our free web-based ecommerce tool that makes . MyFinance is available 24/7 and offers easy management of financial transactions.
                     </p>
                   </div>
                 </div>
@@ -99,10 +90,7 @@
                   <div class="text-center section-space80">
                     <h2>Our Vision &amp; Mission</h2>
                     <p>
-                      Our goal at Insight Loan Advisors is to provide access
-                      to personal loans, car loan, at insight competitive
-                      interest raa timely mannerlorem ipsums deconse
-                      resonescon.
+                    MyFinance provides flexible loans to help you turn your dreams into reality. Every Kiwi is different, so whether that dream looks like a brand-new car, a water toy, or a reno for your home – we're here to help! We help make your finances simpler, faster, and less stressful.
                     </p>
                   </div>
                 </div>
@@ -149,8 +137,7 @@
                     <div class="section-title text-center mb60">
                       <h1>Why apply with us</h1>
                       <p>
-                        Quisque in augunean suscipit ipsum nibh sit amet
-                        venerem
+                      We are here to help you on your way to financial freedom. Our online mutual fund investing and management services are completely free to use
                       </p>
                     </div>
                   </div>
@@ -160,8 +147,7 @@
                     <div class="text-center mb30">
                       <h3 class="mb-2">Multiple Loan Options</h3>
                       <p>
-                        Various versions have evolved over the years,sometimes
-                        by accident.
+                      If you apply for credit, such as a mortgage, auto loan or credit card, the lender (with your permission) will check your credit report.
                       </p>
                     </div>
                   </div>
@@ -169,8 +155,7 @@
                     <div class="text-center mb30">
                       <h3 class="mb-2">Competitive Rate</h3>
                       <p>
-                        Nam enim semex eli aliquet nec lorem ipsum
-                        pretiumlacinia eget elit.
+                      MyFinance provides flexible personal loans to help you turn your dreams into ... So we offer competitive rates, to ensure that whatever your financial 
                       </p>
                     </div>
                   </div>
@@ -178,8 +163,7 @@
                     <div class="text-center mb30">
                       <h3 class="mb-2">Safe &amp; Secure</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing
-                        acinam rutrum sit amet.
+                      Portfolio Monitoring. Get your existing portfolio in a jiffy. Safe and Secure. Bank Grade Security.
                       </p>
                     </div>
                   </div>
@@ -266,11 +250,9 @@
                       <div class="mb40">
                         <i class="icon-calendar-3 icon-2x icon-default"></i>
                       </div>
-                      <h2 class="capital-title">Start Trading</h2>
-                      <p>
-                      Start Trading in Share Market
-                      </p>
-                      <a href="#!" class="btn-link">Get Appointment</a>
+                      <h2 class="capital-title">Apply For fund</h2>
+                      <p>Looking to buy a car or loan then apply for loan now.</p>
+                      <a href="contact" class="btn-link">Get Appointment</a>
                     </div>
                   </div>
                   <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
@@ -279,21 +261,19 @@
                         <i class="icon-phone-call icon-2x icon-default"></i>
                       </div>
                       <h2 class="capital-title">Call us at</h2>
-                      <h1 class="text-big">800-123-456 / 789</h1>
+                      <h1 class="text-big"><a href="tel:+1800-123-4567">+1800-123-4567</a> </h1>
                       <p>lnfo@myfinancialservice.org</p>
                       <a href="contact" class="btn-link">Contact us</a>
                     </div>
                   </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="bg-white bg-boxshadow pinside40 outline text-center mb30">
-                      <div class="mb40">
-                        <i class="icon-users icon-2x icon-default"></i>
-                      </div>
-                      <h2 class="capital-title">Talk to Investor</h2>
-                      <p>Trading is a method of holding stocks for a short period of time.</p>
-                      <a href="#!" class="btn-link">Meet The Investor</a>
+                        <div class="mb40"> <i class="icon-users icon-2x icon-default"></i></div>
+                        <h2 class="capital-title">Talk to Investor</h2>
+                        <p>Trading is a method of holding stocks for a short period of time.</p>
+                        <a href="contact" class="btn-link">Meet The Investor</a>
                     </div>
-                  </div>
+                </div>
                 </div>
               </div>
             </div>
@@ -304,7 +284,7 @@
   </div>
   <!-- /.content end -->
   
-
+  <div class="footer section-space100">
  
   <!-- back to top icon -->
   <a href="#0" class="cd-top" title="Go to top">Top</a>
